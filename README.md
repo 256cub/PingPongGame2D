@@ -20,7 +20,7 @@ PHP Ping Pong Game in 2d Dimension
 total_rows = 7
 total_columns = 9
 pallet_size = 3
-
+```
 
 
 ---
