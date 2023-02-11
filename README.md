@@ -29,7 +29,7 @@ pallet_size = 3
 
 The team is always here to help you. 
 Happen to face an issue? Want to report a bug? 
-You can submit one here on GitHub using the [Issue Tracker](https://github.com/256cub/AMF/issues/new). 
+You can submit one here on GitHub using the [Issue Tracker](https://github.com/256cub/PingPongGame2D/issues/new). 
 
 
 <!-- CONTRIBUTING -->
